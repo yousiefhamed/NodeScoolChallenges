@@ -18,6 +18,8 @@ NodeSchool.io is a great resource for learning Node.js through interactive chall
 
 Here is a list of the challenges I have completed so far:
 
+<img src="./assets/challenges-completed.png" height=300 align=right />
+
 1. [Challenge 1: HELLO WORLD](./hello-world.js)
 2. [Challenge 2: BABY STEPS](./baby-steps.js)
 3. [Challenge 3: MY FIRST I/O!](./my-first-io.js)
