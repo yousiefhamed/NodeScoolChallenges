@@ -36,7 +36,7 @@ To view my solutions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yousiefhamed/NodeSchool-Challenges.git
+   git clone https://github.com/yousiefhamed/NodeSchoolChallenges.git
    ```
 2. Run the solution:
 
